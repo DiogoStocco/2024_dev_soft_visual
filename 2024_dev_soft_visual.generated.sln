@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AulaDeconto", "AulaDeconto\AulaDeconto.csproj", "{BA3917DA-27E7-4039-B9EC-6A4A2D726773}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA3917DA-27E7-4039-B9EC-6A4A2D726773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA3917DA-27E7-4039-B9EC-6A4A2D726773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA3917DA-27E7-4039-B9EC-6A4A2D726773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA3917DA-27E7-4039-B9EC-6A4A2D726773}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18D22F70-71C8-4C31-9B1F-F90B3B92E59A}
+	EndGlobalSection
+EndGlobal
